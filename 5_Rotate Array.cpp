@@ -14,3 +14,5 @@ public:
         
     }
 };
+
+// k % n is imp**
